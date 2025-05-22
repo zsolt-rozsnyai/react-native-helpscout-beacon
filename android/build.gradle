@@ -73,7 +73,7 @@ repositories {
 dependencies {
     //noinspection GradleDynamicVersion
     implementation 'com.facebook.react:react-native:+'  // From node_modules
-    implementation "com.helpscout:beacon:5.1.2"
+    implementation "com.helpscout:beacon:6.0.1"
 }
 
 def configureReactNativePom(def pom) {
